@@ -6,9 +6,7 @@ import org.apache.lucene.document.Document;
 
 import java.io.IOException;
 import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class IndexViewer {
 
@@ -17,27 +15,32 @@ public class IndexViewer {
 
         try {
             IndexReader reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexPath)));
-
-            List<String> titles = new ArrayList<>();
-            for (int i = 0; i < reader.maxDoc(); i++) {
+            boolean exists = false;
+            int id = -1;
+            MAIN_FOR: for (int i = 0; i < reader.maxDoc(); i++) {
                 Document doc = reader.document(i);
                 List<IndexableField> fields = doc.getFields();
                 System.out.println("Document " + i);
                 for (IndexableField field : fields) {
-                    //if (!field.name().equals("content")) {
+                    if (!field.name().equals("content")) {
                         String fieldName = field.name();
                         String fieldValue = doc.get(fieldName);
                         System.out.println(fieldName + ": " + fieldValue);
 
-                        titles.add(fieldValue);
-                    //}
+                        if (fieldValue.equalsIgnoreCase("Komodo dragon")) {
+                            exists = true;
+                            id = i;
+                            System.out.println(doc.get("content"));
+                            break MAIN_FOR;
+                        }
+                    }
                 }
                 System.out.println("--------------");
             }
             reader.close();
 
-            titles = titles.stream().sorted().collect(Collectors.toList());
-            System.out.println(titles);
+            System.out.println("Exists: " + exists);
+            System.out.println("ID: " + id);
         } catch (IOException e) {
             e.printStackTrace();
         }

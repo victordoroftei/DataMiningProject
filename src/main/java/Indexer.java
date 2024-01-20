@@ -1,10 +1,8 @@
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.analysis.CharArraySet;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.core.StopAnalyzer;
 import org.apache.lucene.analysis.core.StopFilter;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
-import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.analysis.standard.StandardTokenizer;
 import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 import org.apache.lucene.document.Document;
@@ -29,7 +27,7 @@ import static org.apache.lucene.analysis.en.EnglishAnalyzer.ENGLISH_STOP_WORDS_S
 
 public class Indexer {
 
-    private static Lemmatizer lemmatizer = new Lemmatizer();
+    private static final Lemmatizer lemmatizer = new Lemmatizer();
 
     public static String normalize(String input) throws IOException {
         input = input.toLowerCase();
@@ -79,7 +77,7 @@ public class Indexer {
         // Creating the IndexWriter
         try (IndexWriter writer = new IndexWriter(directory, config)) {
             // Loop through the Wikipedia files
-            for (int i = 1; i <= 5; i++) {
+            for (int i = 1; i <= 80; i++) {
                 String iStr = String.format("%1$" + 2 + "s", i).replace(' ', '0');
                 String fileName = "wiki" + iStr + ".txt";
                 System.out.println(fileName);
@@ -89,6 +87,10 @@ public class Indexer {
                 String content = new String(Files.readAllBytes(filePath));
                 content = content.replaceAll("\\[\\[File:.*]]]]", "");
                 content = content.replaceAll("\\[\\[File:.*]]", "");
+
+                content = content.replaceAll("\\[\\[Image:.*]]]]", "");
+                content = content.replaceAll("\\[\\[Image:.*]]", "");
+
                 content = content.replaceAll("\\[ref].*\\[/ref]", "");
                 content = content.replaceAll("\\[tpl].*\\[/tpl]", "");
 
@@ -115,7 +117,7 @@ public class Indexer {
 
                 //System.out.println(result);
 
-                for (String string: result) {
+                for (String string : result) {
                     int indexStart = string.indexOf('[') + 2;
                     int indexEnd = string.indexOf(']');
 

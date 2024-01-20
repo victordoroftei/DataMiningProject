@@ -11,45 +11,97 @@ import org.apache.lucene.search.ScoreDoc;
 
 import java.nio.file.Paths;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
 
 public class Search {
 
-    public static void main(String[] args) throws ParseException, IOException {
-        // Path to the index directory
+    private DirectoryReader reader;
+
+    private IndexSearcher searcher;
+
+    private QueryParser parser;
+
+    public Search() {
         String indexPath = "E:\\__Teme\\Data Mining (DM)\\testLucene1\\index";
 
-        // Opening the index
-        DirectoryReader reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexPath)));
+        try {
+            reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexPath)));
+        } catch (IOException e) {
+            System.err.println("Could not open index directory!");
+            e.printStackTrace();
+        }
 
-        // Creating the IndexSearcher
-        IndexSearcher searcher = new IndexSearcher(reader);
+        searcher = new IndexSearcher(reader);
 
-        // Using the same analyzer that was used for indexing
         StandardAnalyzer analyzer = new StandardAnalyzer();
+        parser = new QueryParser("content", analyzer);
+    }
 
-        // Parsing the query
-        // Assuming we are searching in the "content" field
-        QueryParser parser = new QueryParser("content", analyzer);
+    private TopDocs getResultsForQuery(String clue) throws IOException, ParseException {
+        clue = Indexer.normalize(clue);
+        //clue = Indexer.normalizeClue(clue);
+        System.out.println("Normalized clue: " + clue);
 
-        String input = Indexer.normalize("News flash! This less-than-yappy pappy is sixth veep to be nation's top dog after chief takes deep sleep!");
-        System.out.println(input);
-
-        Query query = parser.parse(input);
+        Query query = parser.parse(clue);
 
         // Executing the search
-        TopDocs results = searcher.search(query, 10000); // Searching for top 20 results
+        return searcher.search(query, reader.maxDoc());
+    }
 
-        // Processing the search results
-        int i = 0;
+    public Integer getRankForClue(String clue, String answer) throws IOException, ParseException {
+        TopDocs results = getResultsForQuery(clue);
+
+        String[] answerSplitArr = answer.split("\\|");
+        List<String> possibleAnswers = new ArrayList<>(Arrays.asList(answerSplitArr));
+        possibleAnswers = possibleAnswers.stream().map(String::toLowerCase) .collect(Collectors.toList());
+
+        int i = 1;
+        int rank = -1;
         for (ScoreDoc scoreDoc : results.scoreDocs) {
             Document doc = searcher.doc(scoreDoc.doc);
-            System.out.println("Document ID: " + scoreDoc.doc + ", Score: " + scoreDoc.score + ", Rank: " + i);
-            System.out.println(doc.get("filename")); // Assuming you have a field named "filename"
-            // You can retrieve and display other fields similarly
+
+            //System.out.println("Document ID: " + scoreDoc.doc + ", Score: " + scoreDoc.score + ", Rank: " + i);
+
+            String title = doc.get("filename");
+            //System.out.println(title);
+
+            if (possibleAnswers.contains(title.toLowerCase())) {
+                rank = i;
+                break;
+            }
+
             i++;
         }
 
-        // Closing the reader
-        reader.close();
+        if (rank == -1) {
+            rank = reader.maxDoc() + 1; // In case we don't find any match, we'll set the rank to be the number of docs + 1.
+        }
+
+        // reader.close();
+
+        return rank;
     }
+
+//    public static void main(String[] args) throws IOException, ParseException {
+//        // Path to the index directory
+//        String indexPath = "E:\\__Teme\\Data Mining (DM)\\testLucene1\\index";
+//
+//        // Opening the index
+//        reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexPath)));
+//
+//        // Creating the IndexSearcher
+//        searcher = new IndexSearcher(reader);
+//
+//        // Using the same analyzer that was used for indexing
+//        StandardAnalyzer analyzer = new StandardAnalyzer();
+//
+//        // Parsing the query
+//        // Assuming we are searching in the "content" field
+//        parser = new QueryParser("content", analyzer);
+//
+//        System.out.println(getResultsForQuery("Suceava"));
+//    }
 }

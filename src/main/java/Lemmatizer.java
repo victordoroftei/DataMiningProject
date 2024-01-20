@@ -22,17 +22,14 @@ public class Lemmatizer {
         pipeline = new StanfordCoreNLP(props);
     }
 
-    public String lemmatize(String documentText)
-    {
+    public String lemmatize(String documentText) {
         CoreDocument document = pipeline.processToCoreDocument(documentText);
 
         List<String> lemmaList = new ArrayList<>();
         for (CoreLabel tok : document.tokens()) {
-//            System.out.printf("%s\t%s%n", tok.word(), tok.lemma());
             lemmaList.add(tok.lemma().replace(",", "").replace("'s", "").replace(".", "").replace(":", ""));
         }
 
-        String lemmatizedTextString = String.join(" ", lemmaList);
-        return lemmatizedTextString;
+        return String.join(" ", lemmaList);
     }
 }
