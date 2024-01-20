@@ -16,6 +16,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+// Class used for querying the index
 public class Search {
 
     private DirectoryReader reader;
@@ -24,6 +25,7 @@ public class Search {
 
     private QueryParser parser;
 
+    // Initializing all fields
     public Search() {
         String indexPath = "E:\\__Teme\\Data Mining (DM)\\testLucene1\\index";
 
@@ -40,18 +42,22 @@ public class Search {
         parser = new QueryParser("content", analyzer);
     }
 
+    // Method used for getting the results for a given query: will return all the documents until the answer is found
+    // If the answer is not found, it will return the number of docs + 1
     private TopDocs getResultsForQuery(String clue) throws IOException, ParseException {
+        // Normalize the clue
         clue = Indexer.normalize(clue);
-        //clue = Indexer.normalizeClue(clue);
         System.out.println("Normalized clue: " + clue);
 
+        // Parse the clue
         Query query = parser.parse(clue);
 
-        // Executing the search
+        // Execute the search
         return searcher.search(query, reader.maxDoc());
     }
 
-    public Integer getRankForClue(String clue, String answer) throws IOException, ParseException {
+    // Method used for getting the rank for a given clue. Also places the titles of the documents in the given list.
+    public Integer getRankForClue(String clue, String answer, List<String> titles) throws IOException, ParseException {
         TopDocs results = getResultsForQuery(clue);
 
         String[] answerSplitArr = answer.split("\\|");
@@ -63,11 +69,10 @@ public class Search {
         for (ScoreDoc scoreDoc : results.scoreDocs) {
             Document doc = searcher.doc(scoreDoc.doc);
 
-            //System.out.println("Document ID: " + scoreDoc.doc + ", Score: " + scoreDoc.score + ", Rank: " + i);
-
             String title = doc.get("filename");
-            //System.out.println(title);
+            titles.add(title);
 
+            // If the answer is found, finish looping.
             if (possibleAnswers.contains(title.toLowerCase())) {
                 rank = i;
                 break;
@@ -80,28 +85,6 @@ public class Search {
             rank = reader.maxDoc() + 1; // In case we don't find any match, we'll set the rank to be the number of docs + 1.
         }
 
-        // reader.close();
-
         return rank;
     }
-
-//    public static void main(String[] args) throws IOException, ParseException {
-//        // Path to the index directory
-//        String indexPath = "E:\\__Teme\\Data Mining (DM)\\testLucene1\\index";
-//
-//        // Opening the index
-//        reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexPath)));
-//
-//        // Creating the IndexSearcher
-//        searcher = new IndexSearcher(reader);
-//
-//        // Using the same analyzer that was used for indexing
-//        StandardAnalyzer analyzer = new StandardAnalyzer();
-//
-//        // Parsing the query
-//        // Assuming we are searching in the "content" field
-//        parser = new QueryParser("content", analyzer);
-//
-//        System.out.println(getResultsForQuery("Suceava"));
-//    }
 }
