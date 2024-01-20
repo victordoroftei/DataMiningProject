@@ -21,7 +21,7 @@ public class JeopardyClueSearch {
     // Method used for iterating through the file and querying the index
     public void searchAllClues() {
         int numQuestions = 0;
-        double MRR = 0D;
+        double MRR = 0D, pAtOne = 0D;
         List<Integer> ranks = new ArrayList<>();
 
         Map<Integer, Integer> freqMap = new TreeMap<>();
@@ -42,6 +42,10 @@ public class JeopardyClueSearch {
                 List<String> titles = new ArrayList<>();
                 // Performing the query: getting the rank for the clue and category
                 Integer rank = search.getRankForClue(category + " " + clue, answer, titles);
+
+                if (rank == 1) {
+                    pAtOne++;
+                }
 
                 // We selected the documents with ranks 2, 3, 4 and 5 (20 in total) and extracted their contents to files.
                 // We also generated some prompts for ChatGPT, to be used along those files.
@@ -94,7 +98,10 @@ public class JeopardyClueSearch {
             }
 
             MRR *= 1.0D / numQuestions;
+            pAtOne /= numQuestions;
+
             System.out.println("MRR is: " + MRR);
+            System.out.println("P@1 is: " + pAtOne);
 
             System.out.println("Frequency Map:");
             System.out.println(freqMap);
