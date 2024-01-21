@@ -1,0 +1,663 @@
+Normalized clue: newspaper dominant paper we nation  capital it be among top 10 us paper circulation
+NEWSPAPERS
+The dominant paper in our nation's capital, it's among the top 10 U.S. papers in circulation
+The Washington Post
+RANK: 47
+
+Normalized clue: old year  resolution practice pre authorize presidential use force date 1955 resolution re island near mainland china
+Successfully wrote to the file.
+Successfully wrote to the file.
+OLD YEAR'S RESOLUTIONS
+The practice of pre-authorizing presidential use of force dates to a 1955 resolution re: this island near mainland China
+Taiwan
+RANK: 2
+
+Normalized clue: newspaper daniel hertzberg jame b stewart paper share 1988 pulitzer story about insider trading
+NEWSPAPERS
+Daniel Hertzberg & James B. Stewart of this paper shared a 1988 Pulitzer for their stories about insider trading
+The Wall Street Journal
+RANK: 1
+
+Normalized clue: broadway lyric song say you make I smile my heart you look laughable unphotographable
+BROADWAY LYRICS
+Song that says, "you make me smile with my heart; your looks are laughable, unphotographable"
+My Funny Valentine
+RANK: 367
+
+Normalized clue: potpourri 2011 bell ringer charity start accept digital donation its red kettle
+POTPOURRI
+In 2011 bell ringers for this charity started accepting digital donations to its red kettle
+The Salvation Army|Salvation Army
+RANK: 1
+
+Normalized clue: state art museum alex we will give you museum you give we state naple museum art
+STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+The Naples Museum of Art
+Florida
+RANK: 11219
+
+Normalized clue: tin man Italian painter depict adoration golden calf
+"TIN" MEN
+This Italian painter depicted the "Adoration of the Golden Calf"
+Tintoretto
+RANK: 13
+
+Normalized clue: ucla celebrity alumnus woman who win consecutive heptathlon Olympics go ucla basketball scholarship
+UCLA CELEBRITY ALUMNI
+This woman who won consecutive heptathlons at the Olympics went to UCLA on a basketball scholarship
+Jackie Joyner-Kersee
+RANK: 1
+
+Normalized clue: service organization originally club  emblem wagon wheel now it be gearwheel 24 cog 6 spoke
+SERVICE ORGANIZATIONS
+Originally this club's emblem was a wagon wheel; now it's a gearwheel with 24 cogs & 6 spokes
+Rotary International
+RANK: 43
+
+Normalized clue: African city several bridge include el tahrir cross nile capital
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+AFRICAN CITIES
+Several bridges, including El Tahrir, cross the Nile in this capital
+Cairo
+RANK: 3
+
+Normalized clue: historical quote after fall france 1940 general tell he country france have lose battle france have lose war
+HISTORICAL QUOTES
+After the fall of France in 1940, this general told his country, "France has lost a battle. But France has not lost the war"
+Charles de Gaulle|de Gaulle
+RANK: 25
+
+Normalized clue: state art museum alex we will give you museum you give we state taft museum art
+STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+The Taft Museum of Art
+Ohio
+RANK: 10723
+
+Normalized clue: cemetery mast from uss maine part memorial ship crew national cemetery
+CEMETERIES
+The mast from the USS Maine is part of the memorial to the ship & crew at this national cemetery
+Arlington National Cemetery|Arlington Cemetery
+RANK: 274
+
+Normalized clue: golden globe winner 2009 joker film
+GOLDEN GLOBE WINNERS
+In 2009: Joker on film
+Heath Ledger
+RANK: 21
+
+Normalized clue: historical hodgepodge peninsula fight over peninsular war 1808 1814
+HISTORICAL HODGEPODGE
+It was the peninsula fought over in the peninsular war of 1808 to 1814
+Iberia|Iberian Peninsula
+RANK: 109
+
+Normalized clue: conservation 1980 china found center cute creature its bamboo rich wolong nature preserve
+CONSERVATION
+In 1980 China founded a center for these cute creatures in its bamboo-rich Wolong Nature Preserve
+Panda|Giant panda
+RANK: 287843
+
+Normalized clue: 80 1 hitmaker 1988 father figure
+'80s NO.1 HITMAKERS
+1988: "Father Figure"
+George Michael
+RANK: 15566
+
+Normalized clue: African American woman essay defend 2011 film myrlie ever william say my mother film so she mother
+AFRICAN-AMERICAN WOMEN
+In an essay defending this 2011 film, Myrlie Evers-Williams said, "My mother was" this film "& so was her mother"
+The Help
+RANK: 23
+
+Normalized clue: service organization father michael mcgivney found fraternal society catholic layman 1882
+SERVICE ORGANIZATIONS
+Father Michael McGivney founded this fraternal society for Catholic laymen in 1882
+Knights of Columbus
+RANK: 1
+
+Normalized clue: conservation early project wwf organization include work bald eagle red wolf
+CONSERVATION
+Early projects of the WWF, this organization, included work with the bald eagle & the red wolf
+World Wide Fund|World Wide Fund for Nature
+RANK: 287843
+
+Normalized clue: conservation indonesia  large lizard it be protect from poacher though we wish could breathe fire do job itself
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+CONSERVATION
+Indonesia's largest lizard, it's protected from poachers, though we wish it could breathe fire to do the job itself
+Komodo dragon
+RANK: 5
+
+Normalized clue: 1920 news flash nov 28 1929 man he chief pilot bernt balchen fly south pole yowza you will admirable admiral sir
+1920s NEWS FLASH!
+Nov. 28, 1929! This man & his chief pilot Bernt Balchen fly to South Pole! Yowza! You'll be an admirable admiral, sir!
+Richard Byrd|Richard E. Byrd
+RANK: 287843
+
+Normalized clue: cemetery may 5 1878 alice chamber last person bury dodge city kansa cemetery
+CEMETERIES
+On May 5, 1878 Alice Chambers was the last person buried in this Dodge City, Kansas cemetery
+Boot Hill
+RANK: 1
+
+Normalized clue: Cambodian history culture royal palace grounds feature statue king norodom who late 1800 compelled first put he country under control European power course sculpted country
+CAMBODIAN HISTORY & CULTURE
+The Royal Palace grounds feature a statue of King Norodom, who in the late 1800s was compelled to first put his country under the control of this European power; of course, it was sculpted in that country
+France
+RANK: 272
+
+Normalized clue: historical hodgepodge 400s bc Chinese philosopher go exile 12 year
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+HISTORICAL HODGEPODGE
+In the 400s B.C. this Chinese philosopher went into exile for 12 years
+Confucius
+RANK: 3
+
+Normalized clue: African American woman bessie coleman first black woman license pilot land street name she honor chicago airport
+AFRICAN-AMERICAN WOMEN
+Bessie Coleman, the first black woman licensed as a pilot, landed a street named in her honor at this Chicago airport
+O'Hare|O'Hare International Airport
+RANK: 149
+
+Normalized clue: historical hodgepodge ammonite hold sway mideast country 1200 bc capital name they
+HISTORICAL HODGEPODGE
+The Ammonites held sway in this Mideast country in the 1200s B.C. & the capital is named for them
+Jordan
+RANK: 317
+
+Normalized clue: he play guy name jack ryan sum all fear he also win screenwrit oscar good hunting
+Successfully wrote to the file.
+Successfully wrote to the file.
+HE PLAYED A GUY NAMED JACK RYAN IN...
+"The Sum of All Fears"; he also won a screenwriting Oscar for "Good Will Hunting"
+Ben Affleck
+RANK: 2
+
+Normalized clue: potpourri one ny time headline landmark 1973 supreme court decision cardinal shocked
+POTPOURRI
+One of the N.Y. Times' headlines on this landmark 1973 Supreme Court decision was "Cardinals shocked"
+Roe v. Wade
+RANK: 62
+
+Normalized clue: I be burnin you france  philip iv know fair have jacque de molay last grand master order burn 1314
+Successfully wrote to the file.
+Successfully wrote to the file.
+I'M BURNIN' FOR YOU
+France's Philip IV--known as "The Fair"--had Jacques De Molay, the last Grand Master of this order, burned in 1314
+Knights Templar
+RANK: 2
+
+Normalized clue: state art museum alex we will give you museum you give we state georgia o'keeffe museum
+STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+The Georgia O'Keeffe Museum
+New Mexico
+RANK: 1411
+
+Normalized clue: African city name large Moroccan city combine 2 Spanish word
+AFRICAN CITIES
+The name of this largest Moroccan city combines 2 Spanish words
+Casablanca
+RANK: 1
+
+Normalized clue: name parent company jell o
+NAME THE PARENT COMPANY
+Jell-O
+Kraft Foods
+RANK: 83
+
+Normalized clue: golden globe winner 2011 chicago mayor tom kane
+GOLDEN GLOBE WINNERS
+2011: Chicago mayor Tom Kane
+Kelsey Grammer
+RANK: 77
+
+Normalized clue: resident title residence otter flounder pinto bluto 1978 comedy
+THE RESIDENTS
+Title residence of Otter, Flounder, Pinto & Bluto in a 1978 comedy
+Animal House
+RANK: 1
+
+Normalized clue: ucla celebrity alumnus neurobiologist amy farrah fowler big bang theory real life she have phd neuroscience from ucla
+UCLA CELEBRITY ALUMNI
+Neurobiologist Amy Farrah Fowler on "The Big Bang Theory", in real life she has a Ph.D. in neuroscience from UCLA
+Mayim Bialik
+RANK: 1
+
+Normalized clue: note from campaign trail deadlock election 1800 jame r sharp outline fall duel vice president
+Successfully wrote to the file.
+Successfully wrote to the file.
+NOTES FROM THE CAMPAIGN TRAIL
+In "The Deadlocked Election of 1800", James R. Sharp outlines the fall of this dueling vice president
+Aaron Burr
+RANK: 2
+
+Normalized clue: tin man he serve kgb before become president prime minister russia
+"TIN" MEN
+He served in the KGB before becoming president & then prime minister of Russia
+Vladimir Putin|Putin
+RANK: 1
+
+Normalized clue: African American woman when ask describe herself she say first foremost she malia sasha  mom
+AFRICAN-AMERICAN WOMEN
+When asked to describe herself, she says first & foremost, she is Malia & Sasha's mom
+Michelle Obama
+RANK: 1
+
+Normalized clue: poet poetry she write my candle burn both end ah my foe oh my friend give lovely light
+POETS & POETRY
+She wrote, "My candle burns at both ends... but, ah, my foes, and oh, my friends--it gives a lovely light"
+Edna St. Vincent Millay
+RANK: 256
+
+Normalized clue: capital city church alex we will give you church you tell we capital city which locate Finnish city Lutheran cathedral also know tuomiokirkko
+CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+In this Finnish city, the Lutheran Cathedral, also known as Tuomiokirkko
+Helsinki
+RANK: 51
+
+Normalized clue: name parent company milton bradley game
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+NAME THE PARENT COMPANY
+Milton Bradley games
+Hasbro
+RANK: 5
+
+Normalized clue: old year  resolution kentucky virginia resolution be pass protest controversial 1798 act congress
+OLD YEAR'S RESOLUTIONS
+The Kentucky & Virginia resolutions were passed to protest these controversial 1798 acts of Congress
+The Alien and Sedition Acts
+RANK: 15817
+
+Normalized clue: 80 1 hitmaker 1983 beat
+'80s NO.1 HITMAKERS
+1983: "Beat It"
+Michael Jackson
+RANK: 2901
+
+Normalized clue: golden globe winner 2009 sookie stackhouse
+GOLDEN GLOBE WINNERS
+In 2009: Sookie Stackhouse
+Anna Paquin
+RANK: 1
+
+Normalized clue: historical hodgepodge member nixon ford cabinet bear furth germany 1923
+HISTORICAL HODGEPODGE
+This member of the Nixon & Ford cabinets was born in Furth, Germany in 1923
+Henry Kissinger
+RANK: 17
+
+Normalized clue: capital city church alex we will give you church you tell we capital city which locate high kirk st gile where john knox minister
+CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+The High Kirk of St. Giles, where John Knox was minister
+Edinburgh
+RANK: 149
+
+Normalized clue: ucla celebrity alumnus brief time he attend he rebel cause even land lead role 1950 stage production
+UCLA CELEBRITY ALUMNI
+For the brief time he attended, he was a rebel with a cause, even landing a lead role in a 1950 stage production
+James Dean
+RANK: 15
+
+Normalized clue: name parent company fisher price toy
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+NAME THE PARENT COMPANY
+Fisher-Price toys
+Mattel
+RANK: 3
+
+Normalized clue: historical quote 1959 American kitchen exhibit moscow he tell khrushchev america we like make life easy woman
+HISTORICAL QUOTES
+In a 1959 American kitchen exhibit in Moscow, he told Khrushchev, "In America, we like to make life easier for women"
+Richard Nixon|Nixon
+RANK: 447
+
+Normalized clue: poet poetry one he tale wayside inn begin listen my child you shall hear midnight ride paul revere
+POETS & POETRY
+One of his "Tales of a Wayside Inn" begins, "Listen, my children, and you shall hear of the midnight ride of Paul Revere"
+Henry Wadsworth Longfellow
+RANK: 7
+
+Normalized clue: note from campaign trail bestseller about problem mccain palin ticket become hbo movie julianne moore
+NOTES FROM THE CAMPAIGN TRAIL
+This bestseller about problems on the McCain-Palin ticket became an HBO movie with Julianne Moore
+Game Change
+RANK: 1
+
+Normalized clue: 20 aught show 2 part episode jag introduce mark harmon drama
+THAT 20-AUGHTS SHOW
+A 2-part episode of "JAG" introduced this Mark Harmon drama
+NCIS
+RANK: 287843
+
+Normalized clue: African city port southernmost south africa  3 capital
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+AFRICAN CITIES
+This port is the southernmost of South Africa's 3 capitals
+Cape Town
+RANK: 3
+
+Normalized clue: quotable keat keat quote edmund spenser poem when he tell shelley load every rift you subject ore
+THE QUOTABLE KEATS
+Keats was quoting this Edmund Spenser poem when he told Shelley to "'load every rift' of your subject with ore"
+The Faerie Queene
+RANK: 9
+
+Normalized clue: quotable keat 1819 letter keat write lord poet cut figure he figurative
+THE QUOTABLE KEATS
+In an 1819 letter Keats wrote that this lord & poet "cuts a figure, but he is not figurative"
+Lord Byron
+RANK: 49
+
+Normalized clue: Greek food drink clear Greek liqueur quite potent so it be usually mixed water which turn white cloudy
+GREEK FOOD & DRINK
+This clear Greek liqueur is quite potent, so it's usually mixed with water, which turns it white & cloudy
+Ouzo
+RANK: 1
+
+Normalized clue: old year  resolution feb 1 national freedom day date 1865 when resolution send state amendment end
+OLD YEAR'S RESOLUTIONS
+Feb. 1, National Freedom Day, is the date in 1865 when a resolution sent the states an amendment ending this
+Slavery|Slavery in the United States
+RANK: 176
+
+Normalized clue: rank title person queen  representative canada currently office hold david johnston
+RANKS & TITLES
+This person is the queen's representative in Canada; currently the office is held by David Johnston
+Governor General of Canada
+RANK: 1
+
+Normalized clue: tin man he earn fifth beatle nickname produce all beatle album
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+"TIN" MEN
+He earned the "fifth Beatle" nickname by producing all of the Beatles' albums
+George Martin
+RANK: 4
+
+Normalized clue: newspaper early career mark twain bret harte write piece california city  chronicle
+NEWSPAPERS
+Early in their careers, Mark Twain & Bret Harte wrote pieces for this California city's Chronicle
+San Francisco
+RANK: 464
+
+Normalized clue: potpourri large specimen marsupial can leap over barrier 6 foot high
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+POTPOURRI
+Large specimens of this marsupial can leap over barriers 6 feet high
+Kangaroo
+RANK: 3
+
+Normalized clue: Greek food drink because it be cure store brine crumbly white cheese make from sheep  milk often refer pickle cheese
+GREEK FOOD & DRINK
+Because it's cured & stored in brine, this crumbly white cheese made from sheep's milk is often referred to as pickled cheese
+Feta
+RANK: 1
+
+Normalized clue: 1920 news flash 1927 gene tunney take long count square circle rise defeat manassa mauler howzabout
+1920s NEWS FLASH!
+1927! Gene Tunney takes a long count in the squared circle but rises to defeat this "Manassa Mauler"! Howzabout that!
+Jack Dempsey
+RANK: 1
+
+Normalized clue: rank title Italian leader especially apply benito mussolinus
+RANKS & TITLES
+Italian for "leader", it was especially applied to Benito Mussolini
+Duce
+RANK: 1
+
+Normalized clue: state art museum alex we will give you museum you give we state kalamazoo institute art
+STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+The Kalamazoo Institute of Arts
+Michigan
+RANK: 6624
+
+Normalized clue: state art museum alex we will give you museum you give we state sun valley center art
+STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+The Sun Valley Center for the Arts
+Idaho
+RANK: 6950
+
+Normalized clue: tin man you can not mention shortstop without mention he double play associate ever chance
+"TIN" MEN
+You can't mention this shortstop without mentioning his double-play associates Evers & Chance
+Joe Tinker
+RANK: 1
+
+Normalized clue: newspaper 1840 horace greeley begin publish log cabin weekly campaign paper support whig candidate
+NEWSPAPERS
+In 1840 Horace Greeley began publishing "The Log Cabin", a weekly campaign paper in support of this Whig candidate
+William Henry Harrison
+RANK: 45
+
+Normalized clue: I be burnin you pierre cauchon bishop beauvais preside over trial woman who go up smoke may 30 1431
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+I'M BURNIN' FOR YOU
+Pierre Cauchon, Bishop of Beauvais, presided over the trial of this woman who went up in smoke May 30, 1431
+Joan of Arc|Jeanne d'Arc
+RANK: 3
+
+Normalized clue: complete dom ination alex domination wisconsin city claim have build usa  only granite dome
+COMPLETE DOM-INATION(Alex: Not "domination.")
+This Wisconsin city claims to have built the USA's only granite dome
+Madison
+RANK: 287843
+
+Normalized clue: newspaper georgium paper know ajc short
+NEWSPAPERS
+This Georgia paper is known as the AJC for short
+The Atlanta Journal-Constitution
+RANK: 1
+
+Normalized clue: African city wooden 2 story veranda Liberian capital architectural link us south
+Successfully wrote to the file.
+Successfully wrote to the file.
+AFRICAN CITIES
+Wooden 2-story verandas in this Liberian capital are an architectural link to the U.S. south
+Monrovia
+RANK: 2
+
+Normalized clue: complete dom ination alex domination new orlean venue reopen sept 25 2006
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+COMPLETE DOM-INATION(Alex: Not "domination.")
+This New Orleans venue reopened Sept. 25, 2006
+Mercedes-Benz Superdome|The Superdome
+RANK: 3
+
+Normalized clue: he play guy name jack ryan hunt red october he go more comedic jack donaghy 30 rock
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+HE PLAYED A GUY NAMED JACK RYAN IN...
+"The Hunt for Red October"; he went more comedic as Jack Donaghy on "30 Rock"
+Alec Baldwin
+RANK: 3
+
+Normalized clue: African American woman rita dove title collection poem bus woman
+AFRICAN-AMERICAN WOMEN
+Rita Dove titled a collection of poems "On the Bus with" this woman
+Rosa Parks
+RANK: 10
+
+Normalized clue: he play guy name jack ryan patriot game he be have other iconic role space underground
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+HE PLAYED A GUY NAMED JACK RYAN IN...
+"Patriot Games"; he's had other iconic roles, in space & underground
+Harrison Ford
+RANK: 3
+
+Normalized clue: complete dom ination alex domination sacred structure date from late 600 s ad
+COMPLETE DOM-INATION(Alex: Not "domination.")
+This sacred structure dates from the late 600's A.D.
+Dome of the Rock
+RANK: 54
+
+Normalized clue: 80 1 hitmaker 1988 man mirror
+'80s NO.1 HITMAKERS
+1988: "Man In The Mirror"
+Michael Jackson
+RANK: 14068
+
+Normalized clue: capital city church alex we will give you church you tell we capital city which locate matthia church matya templom where franz joseph crown 1867
+CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+Matthias Church, or Matyas Templom, where Franz Joseph was crowned in 1867
+Budapest
+RANK: 194
+
+Normalized clue: ucla celebrity alumnus attend ucla 60 he meathead he just play one later television
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+UCLA CELEBRITY ALUMNI
+Attending UCLA in the '60s, he was no "Meathead", he just played one later on television
+Rob Reiner
+RANK: 5
+
+Normalized clue: resident kinch carter lebeau be all resident stalag 13 tv show
+THE RESIDENTS
+Kinch, Carter & LeBeau were all residents of Stalag 13 on this TV show
+Hogan's Heroes
+RANK: 1
+
+Normalized clue: 1920 news flash news flash less than yappy pappy sixth veep nation  top dog after chief take deep sleep
+1920s NEWS FLASH!
+News flash! This less-than-yappy pappy is sixth veep to be nation's top dog after chief takes deep sleep!
+Calvin Coolidge
+RANK: 12325
+
+Normalized clue: golden globe winner 2001 president united state television
+GOLDEN GLOBE WINNERS
+In 2001: The president of the United States on television
+Martin Sheen
+RANK: 49
+
+Normalized clue: 80 1 hitmaker 1989 miss you much
+'80s NO.1 HITMAKERS
+1989: "Miss You Much"
+Janet Jackson
+RANK: 565
+
+Normalized clue: 1920 news flash 1922 it be end empire empire fact after 600 year it be goodbye hello Turkish republic
+1920s NEWS FLASH!
+1922: It's the end of an empire! This empire, in fact! After 600 years, it's goodbye, this, hello, Turkish Republic!
+Ottoman Empire
+RANK: 12
+
+Normalized clue: name parent company crest toothpaste
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+Successfully wrote to the file.
+NAME THE PARENT COMPANY
+Crest toothpaste
+Procter & Gamble
+RANK: 4
+
+Normalized clue: historical quote 1888 chancellor tell reichstag we German fear god nothing else world
+HISTORICAL QUOTES
+In 1888 this Chancellor told the Reichstag, "we Germans fear God, but nothing else in the world"
+Otto von Bismarck|Von Bismarck
+RANK: 20
+
+Normalized clue: poet poetry 1787 he sign he first publish poem axiologus axio from Greek worth
+POETS & POETRY
+In 1787 he signed his first published poem "Axiologus"; axio- is from the Greek for "worth"
+William Wordsworth
+RANK: 79
+
+Normalized clue: Cambodian history culture confused karma krama popular accessory sell cambodia word mean scarf national language cambodia
+CAMBODIAN HISTORY & CULTURE
+Not to be confused with karma, krama is a popular accessory sold in cambodia; the word means "scarf" in this national language of Cambodia
+Khmer language
+RANK: 15
+
+Normalized clue: Cambodian history culture phnom penh  notorious gridlock circumvent nimble tuk tuk motorize taxi that be also know auto similar Asian conveyance
+CAMBODIAN HISTORY & CULTURE
+Phnom Penh's notorious gridlock is circumvented by the nimble tuk-tuk, a motorized taxi that's also known as an auto this, a similar Asian conveyance.
+Rickshaw
+RANK: 40
+
+Normalized clue: 80 1 hitmaker 1980 rock you
+'80s NO.1 HITMAKERS
+1980: "Rock With You"
+Michael Jackson
+RANK: 1862
+
+Normalized clue: note from campaign trail pulitzer win make president 1960 covered man  successful presidential campaign
+NOTES FROM THE CAMPAIGN TRAIL
+The Pulitzer-winning "The Making of the President 1960" covered this man's successful presidential campaign
+JFK|John F. Kennedy
+RANK: 9571
+
+Normalized clue: service organization 1843 isaac dittenhoefer become first pre Jewish club whose name mean child covenant
+SERVICE ORGANIZATIONS
+In 1843 Isaac Dittenhoefer became the first pres. of this Jewish club whose name means "children of the covenant"
+B'nai B'rith
+RANK: 1
+
+Normalized clue: resident don knott take over from Norman fall resident landlord sitcom
+Successfully wrote to the file.
+Successfully wrote to the file.
+THE RESIDENTS
+Don Knotts took over from Norman Fell as the resident landlord on this sitcom
+Three's Company
+RANK: 2
+
+Normalized clue: old year  resolution un re 242 support secure recognize boundary israel neighbor follow june 1967 war
+OLD YEAR'S RESOLUTIONS
+U.N. Res. 242 supports "secure and recognized boundaries" for Israel & neighbors following this June 1967 war
+The Six Day War
+RANK: 41088
+
+Normalized clue: ucla celebrity alumnus blonde beauty who reprise she role amanda new melrose place psychology major
+UCLA CELEBRITY ALUMNI
+This blonde beauty who reprised her role as Amanda on the new "Melrose Place" was a psychology major
+Heather Locklear
+RANK: 1
+
+Normalized clue: Greek food drink name dish marinate lamb skewer grill come from Greek skewer also start s
+GREEK FOOD & DRINK
+The name of this dish of marinated lamb, skewered & grilled, comes from the Greek for "skewer" & also starts with "s"
+Souvlaki
+RANK: 1
+
+Normalized clue: name parent company post note
+NAME THE PARENT COMPANY
+Post-it notes
+3M
+RANK: 723
+
+Normalized clue: golden globe winner 2010 sherlock holme film
+GOLDEN GLOBE WINNERS
+In 2010: As Sherlock Holmes on film
+Robert Downey, Jr.
+RANK: 8
+
+MRR is: 0.31397582882868713
