@@ -14,4 +14,8 @@
 - După ce a fost creat indexul, se pot testa întrebările de Jeopardy, rulând metoda `main()` a clasei `JeopardyClueSearch`.
 - Output-ul rezultat va fi similar cu cel din fișierul `jeopardy_initial_output.txt`.
 
-### [Link către indexul construit.](https://drive.google.com/file/d/1vmiJ5x26TYMKOmYjNb_yYdMw-GaFRhuV/view)
+### Cum se folosește indexul deja construit?
+
+- Se descarcă arhiva ce conține indexul de la [adresa](https://drive.google.com/file/d/1vmiJ5x26TYMKOmYjNb_yYdMw-GaFRhuV/view).
+- Se dezarhivează conținutul acesteia (ar trebui să fie un folder cu numele `index`).
+- Se copiază folderul dezarhivat în rootul proiectului.
