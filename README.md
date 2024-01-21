@@ -13,3 +13,5 @@
 - Apoi, pentru crearea indexului, se ruleaza metoda `main()` a clasei `Indexer`. Acest proces a durat, în cazul nostru, aproximativ 2h 30m.
 - După ce a fost creat indexul, se pot testa întrebările de Jeopardy, rulând metoda `main()` a clasei `JeopardyClueSearch`.
 - Output-ul rezultat va fi similar cu cel din fișierul `jeopardy_initial_output.txt`.
+
+### [Link către indexul construit.](https://drive.google.com/file/d/1vmiJ5x26TYMKOmYjNb_yYdMw-GaFRhuV/view)
