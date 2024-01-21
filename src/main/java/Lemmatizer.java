@@ -14,8 +14,7 @@ public class Lemmatizer {
     public Lemmatizer() {
         // Create StanfordCoreNLP object properties, with the following annotations which are required for lemmatization:
         // "tokenize", "pos" (part of speech) and "lemma".
-        Properties props;
-        props = new Properties();
+        Properties props = new Properties();
         props.put("annotators", "tokenize, pos, lemma");
 
         pipeline = new StanfordCoreNLP(props);

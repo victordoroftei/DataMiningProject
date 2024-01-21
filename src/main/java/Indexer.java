@@ -28,6 +28,9 @@ import static org.apache.lucene.analysis.en.EnglishAnalyzer.ENGLISH_STOP_WORDS_S
 // The class used for creating the index
 public class Indexer {
 
+    // Path to the project root
+    public static final String ABSOLUTE_PATH = "E:\\__Teme\\Data Mining (DM)\\DataMiningProject\\";
+
     private static final Lemmatizer lemmatizer = new Lemmatizer();
 
     // Method used for normalizing the documents before the indexing is performed.
@@ -62,7 +65,7 @@ public class Indexer {
     }
 
     public static void main(String[] args) throws IOException {
-        Path indexPath = Paths.get("E:\\__Teme\\Data Mining (DM)\\testLucene1\\index");
+        Path indexPath = Paths.get(ABSOLUTE_PATH + "index");
         FSDirectory directory = FSDirectory.open(indexPath);
 
         // Create an analyzer and the index writer config
@@ -81,7 +84,7 @@ public class Indexer {
                 String fileName = "wiki" + iStr + ".txt";
                 System.out.println(fileName);
 
-                Path filePath = Paths.get("E:\\__Teme\\Data Mining (DM)\\testLucene1", fileName);
+                Path filePath = Paths.get(ABSOLUTE_PATH + "\\input", fileName);
 
                 // Read the content of the file
                 String content = new String(Files.readAllBytes(filePath));

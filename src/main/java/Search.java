@@ -27,7 +27,7 @@ public class Search {
 
     // Initializing all fields
     public Search() {
-        String indexPath = "E:\\__Teme\\Data Mining (DM)\\testLucene1\\index";
+        String indexPath = Indexer.ABSOLUTE_PATH + "\\index";
 
         try {
             reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexPath)));
@@ -62,7 +62,7 @@ public class Search {
 
         String[] answerSplitArr = answer.split("\\|");
         List<String> possibleAnswers = new ArrayList<>(Arrays.asList(answerSplitArr));
-        possibleAnswers = possibleAnswers.stream().map(String::toLowerCase) .collect(Collectors.toList());
+        possibleAnswers = possibleAnswers.stream().map(String::toLowerCase).collect(Collectors.toList());
 
         int i = 1;
         int rank = -1;
@@ -70,13 +70,26 @@ public class Search {
             Document doc = searcher.doc(scoreDoc.doc);
 
             String title = doc.get("filename");
-            titles.add(title);
 
             // If the answer is found, finish looping.
             if (possibleAnswers.contains(title.toLowerCase())) {
                 rank = i;
                 break;
             }
+
+            i++;
+        }
+
+        // Extract the most relevant 5 documents (needed for prompting ChatGPT)
+        i = 1;
+        for (ScoreDoc scoreDoc : results.scoreDocs) {
+            if (i > 5) {
+                break;
+            }
+
+            Document doc = searcher.doc(scoreDoc.doc);
+            String title = doc.get("filename");
+            titles.add(title);
 
             i++;
         }

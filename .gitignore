@@ -2,3 +2,4 @@ wiki*.txt
 index/
 .idea/
 target/
+input/

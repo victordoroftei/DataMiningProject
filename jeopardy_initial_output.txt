@@ -5,8 +5,6 @@ The Washington Post
 RANK: 47
 
 Normalized clue: old year  resolution practice pre authorize presidential use force date 1955 resolution re island near mainland china
-Successfully wrote to the file.
-Successfully wrote to the file.
 OLD YEAR'S RESOLUTIONS
 The practice of pre-authorizing presidential use of force dates to a 1955 resolution re: this island near mainland China
 Taiwan
@@ -34,7 +32,7 @@ Normalized clue: state art museum alex we will give you museum you give we state
 STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
 The Naples Museum of Art
 Florida
-RANK: 11219
+RANK: 11213
 
 Normalized clue: tin man Italian painter depict adoration golden calf
 "TIN" MEN
@@ -55,9 +53,6 @@ Rotary International
 RANK: 43
 
 Normalized clue: African city several bridge include el tahrir cross nile capital
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 AFRICAN CITIES
 Several bridges, including El Tahrir, cross the Nile in this capital
 Cairo
@@ -73,7 +68,7 @@ Normalized clue: state art museum alex we will give you museum you give we state
 STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
 The Taft Museum of Art
 Ohio
-RANK: 10723
+RANK: 10720
 
 Normalized clue: cemetery mast from uss maine part memorial ship crew national cemetery
 CEMETERIES
@@ -91,13 +86,13 @@ Normalized clue: historical hodgepodge peninsula fight over peninsular war 1808 
 HISTORICAL HODGEPODGE
 It was the peninsula fought over in the peninsular war of 1808 to 1814
 Iberia|Iberian Peninsula
-RANK: 109
+RANK: 108
 
 Normalized clue: conservation 1980 china found center cute creature its bamboo rich wolong nature preserve
 CONSERVATION
 In 1980 China founded a center for these cute creatures in its bamboo-rich Wolong Nature Preserve
 Panda|Giant panda
-RANK: 287843
+RANK: 287799
 
 Normalized clue: 80 1 hitmaker 1988 father figure
 '80s NO.1 HITMAKERS
@@ -121,14 +116,9 @@ Normalized clue: conservation early project wwf organization include work bald e
 CONSERVATION
 Early projects of the WWF, this organization, included work with the bald eagle & the red wolf
 World Wide Fund|World Wide Fund for Nature
-RANK: 287843
+RANK: 287799
 
 Normalized clue: conservation indonesia  large lizard it be protect from poacher though we wish could breathe fire do job itself
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 CONSERVATION
 Indonesia's largest lizard, it's protected from poachers, though we wish it could breathe fire to do the job itself
 Komodo dragon
@@ -138,7 +128,7 @@ Normalized clue: 1920 news flash nov 28 1929 man he chief pilot bernt balchen fl
 1920s NEWS FLASH!
 Nov. 28, 1929! This man & his chief pilot Bernt Balchen fly to South Pole! Yowza! You'll be an admirable admiral, sir!
 Richard Byrd|Richard E. Byrd
-RANK: 287843
+RANK: 287799
 
 Normalized clue: cemetery may 5 1878 alice chamber last person bury dodge city kansa cemetery
 CEMETERIES
@@ -150,12 +140,9 @@ Normalized clue: Cambodian history culture royal palace grounds feature statue k
 CAMBODIAN HISTORY & CULTURE
 The Royal Palace grounds feature a statue of King Norodom, who in the late 1800s was compelled to first put his country under the control of this European power; of course, it was sculpted in that country
 France
-RANK: 272
+RANK: 270
 
 Normalized clue: historical hodgepodge 400s bc Chinese philosopher go exile 12 year
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 HISTORICAL HODGEPODGE
 In the 400s B.C. this Chinese philosopher went into exile for 12 years
 Confucius
@@ -174,8 +161,6 @@ Jordan
 RANK: 317
 
 Normalized clue: he play guy name jack ryan sum all fear he also win screenwrit oscar good hunting
-Successfully wrote to the file.
-Successfully wrote to the file.
 HE PLAYED A GUY NAMED JACK RYAN IN...
 "The Sum of All Fears"; he also won a screenwriting Oscar for "Good Will Hunting"
 Ben Affleck
@@ -188,8 +173,6 @@ Roe v. Wade
 RANK: 62
 
 Normalized clue: I be burnin you france  philip iv know fair have jacque de molay last grand master order burn 1314
-Successfully wrote to the file.
-Successfully wrote to the file.
 I'M BURNIN' FOR YOU
 France's Philip IV--known as "The Fair"--had Jacques De Molay, the last Grand Master of this order, burned in 1314
 Knights Templar
@@ -199,7 +182,7 @@ Normalized clue: state art museum alex we will give you museum you give we state
 STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
 The Georgia O'Keeffe Museum
 New Mexico
-RANK: 1411
+RANK: 1410
 
 Normalized clue: African city name large Moroccan city combine 2 Spanish word
 AFRICAN CITIES
@@ -232,8 +215,6 @@ Mayim Bialik
 RANK: 1
 
 Normalized clue: note from campaign trail deadlock election 1800 jame r sharp outline fall duel vice president
-Successfully wrote to the file.
-Successfully wrote to the file.
 NOTES FROM THE CAMPAIGN TRAIL
 In "The Deadlocked Election of 1800", James R. Sharp outlines the fall of this dueling vice president
 Aaron Burr
@@ -264,11 +245,6 @@ Helsinki
 RANK: 51
 
 Normalized clue: name parent company milton bradley game
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 NAME THE PARENT COMPANY
 Milton Bradley games
 Hasbro
@@ -278,13 +254,13 @@ Normalized clue: old year  resolution kentucky virginia resolution be pass prote
 OLD YEAR'S RESOLUTIONS
 The Kentucky & Virginia resolutions were passed to protest these controversial 1798 acts of Congress
 The Alien and Sedition Acts
-RANK: 15817
+RANK: 15818
 
 Normalized clue: 80 1 hitmaker 1983 beat
 '80s NO.1 HITMAKERS
 1983: "Beat It"
 Michael Jackson
-RANK: 2901
+RANK: 2900
 
 Normalized clue: golden globe winner 2009 sookie stackhouse
 GOLDEN GLOBE WINNERS
@@ -311,9 +287,6 @@ James Dean
 RANK: 15
 
 Normalized clue: name parent company fisher price toy
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 NAME THE PARENT COMPANY
 Fisher-Price toys
 Mattel
@@ -341,12 +314,9 @@ Normalized clue: 20 aught show 2 part episode jag introduce mark harmon drama
 THAT 20-AUGHTS SHOW
 A 2-part episode of "JAG" introduced this Mark Harmon drama
 NCIS
-RANK: 287843
+RANK: 287799
 
 Normalized clue: African city port southernmost south africa  3 capital
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 AFRICAN CITIES
 This port is the southernmost of South Africa's 3 capitals
 Cape Town
@@ -383,10 +353,6 @@ Governor General of Canada
 RANK: 1
 
 Normalized clue: tin man he earn fifth beatle nickname produce all beatle album
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 "TIN" MEN
 He earned the "fifth Beatle" nickname by producing all of the Beatles' albums
 George Martin
@@ -399,9 +365,6 @@ San Francisco
 RANK: 464
 
 Normalized clue: potpourri large specimen marsupial can leap over barrier 6 foot high
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 POTPOURRI
 Large specimens of this marsupial can leap over barriers 6 feet high
 Kangaroo
@@ -429,13 +392,13 @@ Normalized clue: state art museum alex we will give you museum you give we state
 STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
 The Kalamazoo Institute of Arts
 Michigan
-RANK: 6624
+RANK: 6623
 
 Normalized clue: state art museum alex we will give you museum you give we state sun valley center art
 STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
 The Sun Valley Center for the Arts
 Idaho
-RANK: 6950
+RANK: 6947
 
 Normalized clue: tin man you can not mention shortstop without mention he double play associate ever chance
 "TIN" MEN
@@ -450,9 +413,6 @@ William Henry Harrison
 RANK: 45
 
 Normalized clue: I be burnin you pierre cauchon bishop beauvais preside over trial woman who go up smoke may 30 1431
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 I'M BURNIN' FOR YOU
 Pierre Cauchon, Bishop of Beauvais, presided over the trial of this woman who went up in smoke May 30, 1431
 Joan of Arc|Jeanne d'Arc
@@ -462,7 +422,7 @@ Normalized clue: complete dom ination alex domination wisconsin city claim have 
 COMPLETE DOM-INATION(Alex: Not "domination.")
 This Wisconsin city claims to have built the USA's only granite dome
 Madison
-RANK: 287843
+RANK: 287799
 
 Normalized clue: newspaper georgium paper know ajc short
 NEWSPAPERS
@@ -471,26 +431,18 @@ The Atlanta Journal-Constitution
 RANK: 1
 
 Normalized clue: African city wooden 2 story veranda Liberian capital architectural link us south
-Successfully wrote to the file.
-Successfully wrote to the file.
 AFRICAN CITIES
 Wooden 2-story verandas in this Liberian capital are an architectural link to the U.S. south
 Monrovia
 RANK: 2
 
 Normalized clue: complete dom ination alex domination new orlean venue reopen sept 25 2006
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 COMPLETE DOM-INATION(Alex: Not "domination.")
 This New Orleans venue reopened Sept. 25, 2006
 Mercedes-Benz Superdome|The Superdome
 RANK: 3
 
 Normalized clue: he play guy name jack ryan hunt red october he go more comedic jack donaghy 30 rock
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 HE PLAYED A GUY NAMED JACK RYAN IN...
 "The Hunt for Red October"; he went more comedic as Jack Donaghy on "30 Rock"
 Alec Baldwin
@@ -503,9 +455,6 @@ Rosa Parks
 RANK: 10
 
 Normalized clue: he play guy name jack ryan patriot game he be have other iconic role space underground
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 HE PLAYED A GUY NAMED JACK RYAN IN...
 "Patriot Games"; he's had other iconic roles, in space & underground
 Harrison Ford
@@ -521,7 +470,7 @@ Normalized clue: 80 1 hitmaker 1988 man mirror
 '80s NO.1 HITMAKERS
 1988: "Man In The Mirror"
 Michael Jackson
-RANK: 14068
+RANK: 14067
 
 Normalized clue: capital city church alex we will give you church you tell we capital city which locate matthia church matya templom where franz joseph crown 1867
 CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
@@ -530,11 +479,6 @@ Budapest
 RANK: 194
 
 Normalized clue: ucla celebrity alumnus attend ucla 60 he meathead he just play one later television
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 UCLA CELEBRITY ALUMNI
 Attending UCLA in the '60s, he was no "Meathead", he just played one later on television
 Rob Reiner
@@ -550,7 +494,7 @@ Normalized clue: 1920 news flash news flash less than yappy pappy sixth veep nat
 1920s NEWS FLASH!
 News flash! This less-than-yappy pappy is sixth veep to be nation's top dog after chief takes deep sleep!
 Calvin Coolidge
-RANK: 12325
+RANK: 12323
 
 Normalized clue: golden globe winner 2001 president united state television
 GOLDEN GLOBE WINNERS
@@ -571,10 +515,6 @@ Ottoman Empire
 RANK: 12
 
 Normalized clue: name parent company crest toothpaste
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
-Successfully wrote to the file.
 NAME THE PARENT COMPANY
 Crest toothpaste
 Procter & Gamble
@@ -608,13 +548,13 @@ Normalized clue: 80 1 hitmaker 1980 rock you
 '80s NO.1 HITMAKERS
 1980: "Rock With You"
 Michael Jackson
-RANK: 1862
+RANK: 1861
 
 Normalized clue: note from campaign trail pulitzer win make president 1960 covered man  successful presidential campaign
 NOTES FROM THE CAMPAIGN TRAIL
 The Pulitzer-winning "The Making of the President 1960" covered this man's successful presidential campaign
 JFK|John F. Kennedy
-RANK: 9571
+RANK: 9569
 
 Normalized clue: service organization 1843 isaac dittenhoefer become first pre Jewish club whose name mean child covenant
 SERVICE ORGANIZATIONS
@@ -623,8 +563,6 @@ B'nai B'rith
 RANK: 1
 
 Normalized clue: resident don knott take over from Norman fall resident landlord sitcom
-Successfully wrote to the file.
-Successfully wrote to the file.
 THE RESIDENTS
 Don Knotts took over from Norman Fell as the resident landlord on this sitcom
 Three's Company
@@ -634,7 +572,7 @@ Normalized clue: old year  resolution un re 242 support secure recognize boundar
 OLD YEAR'S RESOLUTIONS
 U.N. Res. 242 supports "secure and recognized boundaries" for Israel & neighbors following this June 1967 war
 The Six Day War
-RANK: 41088
+RANK: 41081
 
 Normalized clue: ucla celebrity alumnus blonde beauty who reprise she role amanda new melrose place psychology major
 UCLA CELEBRITY ALUMNI
@@ -660,4 +598,6 @@ In 2010: As Sherlock Holmes on film
 Robert Downey, Jr.
 RANK: 8
 
-MRR is: 0.31397582882868713
+MRR is: 0.313977
+
+P@1 is: 0.230000
